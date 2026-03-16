@@ -1,5 +1,5 @@
 class sample{
   public static void main(String args[]){
-    System.out.println("hello from jenkins pipeline");
+    System.out.println("trigered from pollscm");
   }
 }
