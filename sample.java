@@ -1,5 +1,5 @@
 class sample{
-  public class staic main(String args[]){
+  public class void Main(String args[]){
     System.out.println("hello from jenkins pipeline");
   }
 }
